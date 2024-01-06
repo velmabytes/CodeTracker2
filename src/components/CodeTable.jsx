@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 
-export default function CodeTable({ codes, title }) {
+export default function CodeTable({ codes, title, length }) {
   const [isCopied, setIsCopied] = useState(false);
   const codeTableRef = useRef(null);
   
@@ -24,6 +24,7 @@ export default function CodeTable({ codes, title }) {
         <span><strong>Códigos copiados para<br></br>a área de transferência❗</strong></span>
       )}
       <h2>{ title }</h2>
+      <spam>Encontrados: {length}</spam>
 
       {codes && (
         <button className='btn__copy' type="button" onClick={handleCopyCodes}>
