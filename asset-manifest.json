@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/CodeTracker2/static/css/main.7e45678a.css",
-    "main.js": "/CodeTracker2/static/js/main.87c8ce78.js",
+    "main.js": "/CodeTracker2/static/js/main.9fd49f24.js",
     "static/js/787.cbabd05f.chunk.js": "/CodeTracker2/static/js/787.cbabd05f.chunk.js",
     "static/media/TungstenNarrow-Black.ttf": "/CodeTracker2/static/media/TungstenNarrow-Black.6aace699e51a03672c00.ttf",
     "static/media/TungstenNarrow-Black.woff": "/CodeTracker2/static/media/TungstenNarrow-Black.95b4d38b8fbc1edd00d1.woff",
     "static/media/TungstenNarrow-Black.woff2": "/CodeTracker2/static/media/TungstenNarrow-Black.bc0c992c1f8edb56de7c.woff2",
     "index.html": "/CodeTracker2/index.html",
     "main.7e45678a.css.map": "/CodeTracker2/static/css/main.7e45678a.css.map",
-    "main.87c8ce78.js.map": "/CodeTracker2/static/js/main.87c8ce78.js.map",
+    "main.9fd49f24.js.map": "/CodeTracker2/static/js/main.9fd49f24.js.map",
     "787.cbabd05f.chunk.js.map": "/CodeTracker2/static/js/787.cbabd05f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e45678a.css",
-    "static/js/main.87c8ce78.js"
+    "static/js/main.9fd49f24.js"
   ]
 }
