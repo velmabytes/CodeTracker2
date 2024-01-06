@@ -1,0 +1,28 @@
+@import url("./fonts/TungstenNarrow/style.css");
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #101820FF;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(242, 170, 76, 0.474);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #F2AA4CFF;
+}
+
+.title__ {
+    font-family: Tungsten, Impact, sans-serif;
+    font: Muli, Tungsten;
+    font-size: 5rem;
+    color: #D8FFDB;
+    text-shadow: #d8ffdba2 0px 0px 7px;
+    margin: 0;
+    padding: 5% 0% 0% 0%;
+    scroll-behavior: smooth;
+}

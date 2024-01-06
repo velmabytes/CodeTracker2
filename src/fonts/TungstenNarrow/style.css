@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tungsten';
+    src: local('Tungsten Narrow Black'), local('Tungsten-Narrow-Black'),
+        url('TungstenNarrow-Black.woff2') format('woff2'),
+        url('TungstenNarrow-Black.woff') format('woff'),
+        url('TungstenNarrow-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
