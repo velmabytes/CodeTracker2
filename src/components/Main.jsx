@@ -147,9 +147,9 @@ export default function Main() {
         // setTableCodes(tableCodes.sort((a, b) => b.mailNo.localeCompare(a.mailNo)));
         setCodesDayOne(listCodesDayOne);
         // -----------------------------------
-        console.log('Lista com todos códigos do ALIEXPRESS:', listValidCodes);
+        console.log('Todos códigos ALIEXPRESS encontrados na busca:', listValidCodes);
         console.log('Lista com os 100 códigos mais recentes da lista acima:', sortedCodes);
-        console.log('Lista com códigos com status de 1 dia', listCodesDayOne);
+        console.log('Códigos com status de 1 dia da lista acima', listCodesDayOne);
         setChecking(false);
         setLoading(false);
       }
